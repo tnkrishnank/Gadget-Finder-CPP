@@ -1,0 +1,651 @@
+# depslib dependency file v1.0
+1619094853 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\main.cpp
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1618998109 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\electronics.cpp
+	"electronics.h"
+
+1618999898 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\electronics.h
+	<iostream>
+
+1618998402 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\airconditioner.cpp
+	"airconditioner.h"
+
+1618999978 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\airconditioner.h
+	<iostream>
+
+1618998552 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\powerbank.cpp
+	"powerbank.h"
+
+1618999978 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\powerbank.h
+	<iostream>
+
+1618998622 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\hometheatre.cpp
+	"hometheatre.h"
+
+1618999978 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\hometheatre.h
+	<iostream>
+
+1619092888 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\battery.cpp
+	"battery.h"
+
+1619088228 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\battery.h
+	<iostream>
+
+1618998725 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\smartwatch.cpp
+	"smartwatch.h"
+
+1618999978 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\smartwatch.h
+	<iostream>
+
+1619094411 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\internals.cpp
+	"internals.h"
+	"utilities.h"
+
+1619087303 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\internals.h
+	<iostream>
+
+1619092939 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\dimension.cpp
+	"dimension.h"
+
+1619092624 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\dimension.h
+	<iostream>
+
+1618999330 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\mobile.cpp
+	"mobile.h"
+
+1618999361 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\mobile.h
+	<iostream>
+
+1618999401 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\laptop.cpp
+	"laptop.h"
+
+1618999978 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\laptop.h
+	<iostream>
+
+1618999474 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\television.cpp
+	"television.h"
+
+1618999978 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\television.h
+	<iostream>
+
+1619094386 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\camera.cpp
+	"camera.h"
+	"utilities.h"
+
+1619092623 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\camera.h
+	<iostream>
+
+1619094371 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\display.cpp
+	"display.h"
+	"utilities.h"
+
+1619094062 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\display.h
+	<iostream>
+
+1619096068 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\ports.cpp
+	"ports.h"
+	"utilities.h"
+
+1619092441 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\ports.h
+	<iostream>
+
+1619092494 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\stringfunctions.h
+	<algorithm>
+
+1619094520 f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\utilities.h
+	<iostream>
+
+1619096097 source:f:\semester - 2\20xc27 - object oriented programming lab\project\gadgetfinder\utilities.cpp
+	"utilities.h"
+	<iostream>
+	<algorithm>
+
+1619184585 source:c:\users\navin krishna\desktop\gadgetfinder\airconditioner.cpp
+	"airconditioner.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175196 c:\users\navin krishna\desktop\gadgetfinder\airconditioner.h
+	"electronics.h"
+	"dimension.h"
+	<iostream>
+
+1619184612 source:c:\users\navin krishna\desktop\gadgetfinder\hometheatre.cpp
+	"hometheatre.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619180240 c:\users\navin krishna\desktop\gadgetfinder\hometheatre.h
+	"electronics.h"
+	"dimension.h"
+	<iostream>
+
+1619184620 source:c:\users\navin krishna\desktop\gadgetfinder\laptop.cpp
+	"laptop.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619181941 c:\users\navin krishna\desktop\gadgetfinder\laptop.h
+	"electronics.h"
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1619184628 source:c:\users\navin krishna\desktop\gadgetfinder\mobile.cpp
+	"mobile.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619177531 c:\users\navin krishna\desktop\gadgetfinder\mobile.h
+	"electronics.h"
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	<iostream>
+
+1619186545 source:c:\users\navin krishna\desktop\gadgetfinder\powerbank.cpp
+	"powerbank.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175594 c:\users\navin krishna\desktop\gadgetfinder\powerbank.h
+	"electronics.h"
+	"battery.h"
+	"dimension.h"
+	<iostream>
+
+1619184646 source:c:\users\navin krishna\desktop\gadgetfinder\smartwatch.cpp
+	"smartwatch.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619177650 c:\users\navin krishna\desktop\gadgetfinder\smartwatch.h
+	"electronics.h"
+	"battery.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	<iostream>
+
+1619186855 source:c:\users\navin krishna\desktop\gadgetfinder\television.cpp
+	"television.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619184585 c:\users\navin krishna\desktop\gadgetfinder\television.h
+	"electronics.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1619174226 source:c:\users\navin krishna\desktop\gadgetfinder\battery.cpp
+	"battery.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175270 c:\users\navin krishna\desktop\gadgetfinder\battery.h
+	<iostream>
+
+1619174237 source:c:\users\navin krishna\desktop\gadgetfinder\camera.cpp
+	"camera.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175279 c:\users\navin krishna\desktop\gadgetfinder\camera.h
+	<iostream>
+
+1619171585 c:\users\navin krishna\desktop\gadgetfinder\utilities.h
+	<iostream>
+
+1619174247 source:c:\users\navin krishna\desktop\gadgetfinder\dimension.cpp
+	"dimension.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175288 c:\users\navin krishna\desktop\gadgetfinder\dimension.h
+	<iostream>
+
+1619174258 source:c:\users\navin krishna\desktop\gadgetfinder\display.cpp
+	"display.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175296 c:\users\navin krishna\desktop\gadgetfinder\display.h
+	<iostream>
+
+1619174272 source:c:\users\navin krishna\desktop\gadgetfinder\internals.cpp
+	"internals.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175306 c:\users\navin krishna\desktop\gadgetfinder\internals.h
+	<iostream>
+
+1619209662 source:c:\users\navin krishna\desktop\gadgetfinder\main.cpp
+	"airconditioner.h"
+	"hometheatre.h"
+	"laptop.h"
+	"mobile.h"
+	"powerbank.h"
+	"smartwatch.h"
+	"television.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1619175316 c:\users\navin krishna\desktop\gadgetfinder\ports.h
+	<iostream>
+
+1619187440 source:c:\users\navin krishna\desktop\gadgetfinder\ports.cpp
+	"ports.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619171645 source:c:\users\navin krishna\desktop\gadgetfinder\utilities.cpp
+	"utilities.h"
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1619177794 source:c:\users\navin krishna\desktop\gadgetfinder\electronics.cpp
+	"electronics.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619206894 c:\users\navin krishna\desktop\gadgetfinder\electronics.h
+	<iostream>
+
+1619248398 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\airconditioner.cpp
+	"airconditioner.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619248302 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\airconditioner.h
+	"electronics.h"
+	"dimension.h"
+	<iostream>
+
+1619206894 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\electronics.h
+	<iostream>
+
+1619175288 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\dimension.h
+	<iostream>
+
+1619171585 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\utilities.h
+	<iostream>
+
+1619174226 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\battery.cpp
+	"battery.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175270 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\battery.h
+	<iostream>
+
+1619174237 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\camera.cpp
+	"camera.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175279 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\camera.h
+	<iostream>
+
+1619174247 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\dimension.cpp
+	"dimension.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619174258 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\display.cpp
+	"display.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175296 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\display.h
+	<iostream>
+
+1619177794 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\electronics.cpp
+	"electronics.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619184612 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\hometheatre.cpp
+	"hometheatre.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619180240 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\hometheatre.h
+	"electronics.h"
+	"dimension.h"
+	<iostream>
+
+1619174272 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\internals.cpp
+	"internals.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619175306 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\internals.h
+	<iostream>
+
+1619184620 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\laptop.cpp
+	"laptop.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619181941 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\laptop.h
+	"electronics.h"
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1619175316 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\ports.h
+	<iostream>
+
+1619244820 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\main.cpp
+	"airconditioner.h"
+	"hometheatre.h"
+	"laptop.h"
+	"mobile.h"
+	"powerbank.h"
+	"smartwatch.h"
+	"television.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+
+1619177531 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\mobile.h
+	"electronics.h"
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	<iostream>
+
+1619175594 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\powerbank.h
+	"electronics.h"
+	"battery.h"
+	"dimension.h"
+	<iostream>
+
+1619177650 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\smartwatch.h
+	"electronics.h"
+	"battery.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	<iostream>
+
+1619184585 c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\television.h
+	"electronics.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1619184628 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\mobile.cpp
+	"mobile.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619187440 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\ports.cpp
+	"ports.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619186545 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\powerbank.cpp
+	"powerbank.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619184646 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\smartwatch.cpp
+	"smartwatch.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619186855 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\television.cpp
+	"television.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1619171645 source:c:\users\m_d_v\downloads\gadgetfinder\gadgetfinder\utilities.cpp
+	"utilities.h"
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1620626674 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\airconditioner.cpp
+	"airconditioner.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624584 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\airconditioner.h
+	"electronics.h"
+	"dimension.h"
+	<iostream>
+
+1620624674 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\electronics.h
+	<iostream>
+
+1620624647 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\dimension.h
+	<iostream>
+
+1620624811 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\utilities.h
+	<iostream>
+
+1620627278 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\battery.cpp
+	"battery.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624616 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\battery.h
+	<iostream>
+
+1620627393 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\camera.cpp
+	"camera.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624633 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\camera.h
+	<iostream>
+
+1620627313 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\dimension.cpp
+	"dimension.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620627381 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\display.cpp
+	"display.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624661 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\display.h
+	<iostream>
+
+1620802072 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\electronics.cpp
+	"electronics.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620626420 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\hometheatre.cpp
+	"hometheatre.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624687 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\hometheatre.h
+	"electronics.h"
+	"dimension.h"
+	<iostream>
+
+1620627370 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\internals.cpp
+	"internals.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624702 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\internals.h
+	<iostream>
+
+1620626369 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\laptop.cpp
+	"laptop.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620624713 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\laptop.h
+	"electronics.h"
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1620624746 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\ports.h
+	<iostream>
+
+1620628280 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\main.cpp
+	"airconditioner.h"
+	"hometheatre.h"
+	"laptop.h"
+	"mobile.h"
+	"powerbank.h"
+	"smartwatch.h"
+	"television.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+
+1620624726 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\mobile.h
+	"electronics.h"
+	"battery.h"
+	"camera.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	<iostream>
+
+1620624762 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\powerbank.h
+	"electronics.h"
+	"battery.h"
+	"dimension.h"
+	<iostream>
+
+1620624774 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\smartwatch.h
+	"electronics.h"
+	"battery.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	<iostream>
+
+1620624789 d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\television.h
+	"electronics.h"
+	"dimension.h"
+	"display.h"
+	"internals.h"
+	"ports.h"
+	<iostream>
+
+1620626336 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\mobile.cpp
+	"mobile.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620627304 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\ports.cpp
+	"ports.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620626303 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\powerbank.cpp
+	"powerbank.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620626255 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\smartwatch.cpp
+	"smartwatch.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620626205 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\television.cpp
+	"television.h"
+	"utilities.h"
+	<fstream>
+	<sstream>
+
+1620629589 source:d:\psg tech\semester 2\20xc27 object computing lab\z package\gadgetfinder\utilities.cpp
+	"utilities.h"
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+

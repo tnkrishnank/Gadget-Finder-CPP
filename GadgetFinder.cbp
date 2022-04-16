@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GadgetFinder" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GadgetFinder" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GadgetFinder" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="airconditioner.cpp" />
+		<Unit filename="airconditioner.h" />
+		<Unit filename="battery.cpp" />
+		<Unit filename="battery.h" />
+		<Unit filename="camera.cpp" />
+		<Unit filename="camera.h" />
+		<Unit filename="dimension.cpp" />
+		<Unit filename="dimension.h" />
+		<Unit filename="display.cpp" />
+		<Unit filename="display.h" />
+		<Unit filename="electronics.cpp" />
+		<Unit filename="electronics.h" />
+		<Unit filename="hometheatre.cpp" />
+		<Unit filename="hometheatre.h" />
+		<Unit filename="internals.cpp" />
+		<Unit filename="internals.h" />
+		<Unit filename="laptop.cpp" />
+		<Unit filename="laptop.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mobile.cpp" />
+		<Unit filename="mobile.h" />
+		<Unit filename="ports.cpp" />
+		<Unit filename="ports.h" />
+		<Unit filename="powerbank.cpp" />
+		<Unit filename="powerbank.h" />
+		<Unit filename="smartwatch.cpp" />
+		<Unit filename="smartwatch.h" />
+		<Unit filename="television.cpp" />
+		<Unit filename="television.h" />
+		<Unit filename="utilities.cpp" />
+		<Unit filename="utilities.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
